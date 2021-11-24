@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tunahanbulanik
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning full-stack
+- 🌱 I’m currently learning MEVN or MERN stack
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tunahanbulanik@outlook.com
 
